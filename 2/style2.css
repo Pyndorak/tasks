@@ -1,0 +1,17 @@
+.block{
+    background:green;
+    color:#fff;
+    width:300px;
+    padding:25px;
+    position: relative;
+}
+.block:before, .block:after{
+    content:'';
+    background:green;
+    position: absolute;
+    top: 5px;
+    bottom: 5px;
+    width: 5px
+}
+.block:before{left:-5px}
+.block:after{right:-5px}

@@ -1,0 +1,48 @@
+
+.conteiner{
+    width: 415px;
+    overflow: hidden;
+    margin: 0px auto;
+}
+.abc{
+    width: 400px;
+    height: 50px;
+    background: #878f94;
+    transform: skew(-30deg, 0);
+    position: relative;
+    margin: 30px auto;
+}
+.text{
+    width: 130px;
+    height: 25px;
+    color: #ebeded;
+    transform: skew(30deg, 0);
+    font: 16px/25px sans-serif;
+    padding: 0 0 0 20px;
+    position: relative;
+    margin: 0 15px 0 0;
+    display: inline-block;
+    top: 12.5px;
+    vertical-align: top;
+}
+.cub{
+    background: #d3d5d4;
+    width: 25px;
+    height: 25px;
+    margin: 0 5px;
+    position: relative;
+    display: inline-block;
+    top: 12.5px;
+}
+.green{
+    background: #51dbb3
+}
+.yellow{
+    background: #dbd651;
+}
+.red{
+    background: #db8f51;
+}
+p {
+
+}

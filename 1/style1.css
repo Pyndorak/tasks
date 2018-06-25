@@ -1,0 +1,26 @@
+
+.item-list {
+    background-color: ghostwhite;}
+.pager {
+    height: 32px;
+    border-bottom: 4px solid #CCCCCC;
+}
+.pager-current {
+    border-bottom: 4px solid #373737;
+    background-color: #CCCCCC;
+}
+.pager li {
+    float: left;
+    display: inline-block;
+    padding: 7px 17px;
+}
+.pager li:hover {
+    background-color: #CCCCCC;
+    border-bottom: 4px solid #373737;
+}
+.pager a {
+    color: #720000;
+    text-decoration: none;
+}
+
+
